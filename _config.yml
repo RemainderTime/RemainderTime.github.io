@@ -19,8 +19,8 @@ url: "https://blog.remaindertime.cn"
 
 short_url: 'moonagic.com'
 google_analytics: 'UA-74995541-1'
-google_analytics_url: 'https://source.remaindertime.cn/'
-cdn_url: 'https://source.remaindertime.cn/'
+google_analytics_url: 'http://source.remaindertime.cn/'
+cdn_url: 'http://source.remaindertime.cn/'
 # disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: '/'

@@ -2,7 +2,7 @@
 layout: page
 title: 公共DNS
 navigation: true
-logo: 'images/avatar.jpg'
+logo: 'images/log.png'
 ---
 
 ---
