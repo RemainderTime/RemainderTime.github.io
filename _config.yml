@@ -11,16 +11,16 @@ paginate: 10
 language: 'en-us'
 
 # Website info
-name: "繁花一叶"
+name: "梦麟繁花"
 description: "Laziness, Impatience and Hubris."
-meta_description: 月杪的个人博客
-meta_keywords: moonagic, 月杪, 雨戈林多, 月光林地, jekyll, blog, 博客, 独立博客, github
-url: "https://moonagic.com"
+meta_description: 梦魇的个人博客
+meta_keywords: moonagic, 梦魇, 梦麟繁花, 微梦一生, jekyll, blog, 博客, 独立博客, github
+url: "https://blog.remaindertime.cn"
 
 short_url: 'moonagic.com'
 google_analytics: 'UA-74995541-1'
-google_analytics_url: 'https://cdn.agic.io'
-cdn_url: 'https://cdn.agic.io/'
+google_analytics_url: 'https://source.remaindertime.cn/'
+cdn_url: 'https://source.remaindertime.cn/'
 # disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: '/'
@@ -49,4 +49,3 @@ excerpt_separator:  '<!-- more -->'
 # Post's page cover as a per-post basis _posts/...
 # Disqus comments as a per-post basis
 # ...
-
